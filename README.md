@@ -1,0 +1,2 @@
+# MSO_pcbV6_RS485
+ stm32f100c8t6_max3232_max485_74hc595_74hc245
