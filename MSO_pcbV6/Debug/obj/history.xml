@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc 4.3.2 arm-none-eabi -mcpu=cortex-m3 -mthumb -Wall -ffunction-sections -g -O0 -c -DSTM32F100C8 -DSTM32F10X_MD_VL -IH:\ARM\example\example_coocox_30.11.17\PomoySam\MSO_pcbV6_12.01.21\cmsis_boot -IH:\ARM\example\example_coocox_30.11.17\PomoySam\MSO_pcbV6_12.01.21 -IH:\ARM\example\example_coocox_30.11.17 -IH:\ARM\example\example_coocox_30.11.17\PomoySam\MSO_pcbV6_12.01.21\cmsis -IH:\ARM\example\example_coocox_30.11.17\PomoySam">
+      <target file="system_stm32f10x.o" lastModified="17af8e47c9b">
+         <source file="..\..\..\cmsis_boot\system_stm32f10x.c" lastModified="16da5831222"/>
+      </target>
+      <target file="startup_stm32f10x_md_vl.o" lastModified="17af8e4792b">
+         <source file="..\..\..\cmsis_boot\startup\startup_stm32f10x_md_vl.c" lastModified="16da58311ce"/>
+      </target>
+      <target file="main.o" lastModified="17f258c06ac">
+         <source file="..\..\..\main.c" lastModified="17f258bd977"/>
+      </target>
+      <target file="lcd.o" lastModified="17af8e48c4f">
+         <source file="..\..\..\lcd.c" lastModified="16da5a52c32"/>
+      </target>
+   </processor>
+</history>

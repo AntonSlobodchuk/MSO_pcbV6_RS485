@@ -1,0 +1,395 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dependencies>
+   <includePath signature="/IH:\ARM\example\example_coocox_30.11.17\PomoySam\MSO_pcbV6_12.01.21\cmsis_boot /IH:\ARM\example\example_coocox_30.11.17\PomoySam\MSO_pcbV6_12.01.21 /IH:\ARM\example\example_coocox_30.11.17 /IH:\ARM\example\example_coocox_30.11.17\PomoySam\MSO_pcbV6_12.01.21\cmsis /IH:\ARM\example\example_coocox_30.11.17\PomoySam">
+      <source file="..\..\..\cmsis_boot\stm32f10x.h" lastModified="16f420b80b7">
+         <include file="..\..\..\cmsis\core_cm3.h"/>
+         <include file="..\..\..\cmsis_boot\system_stm32f10x.h"/>
+         <include file="..\..\..\cmsis_boot\stm32f10x_conf.h"/>
+      </source>
+      <source file="..\..\..\cmsis\core_cmFunc.h" lastModified="16da5830339">
+      </source>
+      <source file="..\..\..\cmsis\core_cmInstr.h" lastModified="16da583033c">
+      </source>
+      <source file="..\..\..\pll_f100_VL.h" lastModified="147d0e38d52">
+      </source>
+      <source file="..\..\..\gpio.h" lastModified="13c5968ec50">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\cmsis\core_cm3.h" lastModified="16da582ff46">
+         <include file="..\..\..\cmsis\core_cmInstr.h"/>
+         <include file="..\..\..\cmsis\core_cmFunc.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\startup\startup_stm32f10x_md_vl.c" lastModified="16da58311ce">
+      </source>
+      <source file="..\..\..\lcd.h" lastModified="16da59fab84">
+      </source>
+      <source file="..\..\..\init_gpio.h" lastModified="16db9dfdc47">
+      </source>
+      <source file="..\..\..\delay.h" lastModified="16da596b358">
+      </source>
+      <source file="..\..\..\itoa_ltoa.h" lastModified="147b73d832c">
+      </source>
+      <source file="..\..\..\lcd.c" lastModified="16da5a5301a">
+         <include file="..\..\..\lcd.h"/>
+         <include file="..\..\..\gpio.h"/>
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\i2c_software.h" lastModified="16db9ecb8aa">
+      </source>
+      <source file="..\..\..\cmsis_boot\stm32f10x_conf.h" lastModified="16da5831215">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f10x.h" lastModified="16da5831260">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f10x.c" lastModified="16da5831222">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\led_7_segm_4_razr.h" lastModified="16f4303e1cd">
+      </source>
+   </includePath>
+   <includePath signature="/IG:\ARM\example\example_coocox_30.11.17\PomoySam /IG:\ARM\example\example_coocox_30.11.17\PomoySam\MSO_pcbV6_12.01.21 /IG:\ARM\example\example_coocox_30.11.17\PomoySam\MSO_pcbV6_12.01.21\cmsis /IG:\ARM\example\example_coocox_30.11.17\PomoySam\MSO_pcbV6_12.01.21\cmsis_boot /IG:\ARM\example\example_coocox_30.11.17">
+      <source file="..\..\..\pll_f100_VL.h" lastModified="147d0e38d52">
+      </source>
+      <source file="..\..\..\gpio.h" lastModified="13c5968ec50">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\startup\startup_stm32f10x_md_vl.c" lastModified="16da58311ce">
+      </source>
+      <source file="..\..\..\lcd.h" lastModified="16da59fab84">
+      </source>
+      <source file="..\..\..\init_gpio.h" lastModified="16db9dfdc47">
+      </source>
+      <source file="..\..\..\delay.h" lastModified="16da596b358">
+      </source>
+      <source file="..\..\..\itoa_ltoa.h" lastModified="147b73d832c">
+      </source>
+      <source file="..\..\..\i2c_software.h" lastModified="16db9ecb8aa">
+      </source>
+      <source file="..\..\..\cmsis_boot\stm32f10x_conf.h" lastModified="16da5831215">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f10x.h" lastModified="16da5831260">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f10x.c" lastModified="16da5831222">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\led_7_segm_4_razr.h" lastModified="16f4303e1cd">
+      </source>
+   </includePath>
+   <includePath signature="/I..\..\..\..\..\Users\Unknown\Desktop\MSO_pcbV6_26.12.19\cmsis_boot /I..\..\..\..\..\Users\Unknown /I..\..\..\..\..\Users\Unknown\Desktop\MSO_pcbV6_26.12.19 /I..\..\..\..\..\Users\Unknown\Desktop\MSO_pcbV6_26.12.19\cmsis /I..\..\..\..\..\Users\Unknown\Desktop">
+      <source file="..\..\..\pll_f100_VL.h" lastModified="147d0e38d52">
+      </source>
+      <source file="..\..\..\gpio.h" lastModified="13c5968ec50">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\startup\startup_stm32f10x_md_vl.c" lastModified="16da58311ce">
+      </source>
+      <source file="..\..\..\lcd.h" lastModified="16da59fab84">
+      </source>
+      <source file="..\..\..\init_gpio.h" lastModified="16db9dfdc47">
+      </source>
+      <source file="..\..\..\delay.h" lastModified="16da596b358">
+      </source>
+      <source file="..\..\..\itoa_ltoa.h" lastModified="147b73d832c">
+      </source>
+      <source file="..\..\..\i2c_software.h" lastModified="16db9ecb8aa">
+      </source>
+      <source file="..\..\..\cmsis_boot\stm32f10x_conf.h" lastModified="16da5831215">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f10x.h" lastModified="16da5831260">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f10x.c" lastModified="16da5831222">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\led_7_segm_4_razr.h" lastModified="16f4303e1cd">
+      </source>
+   </includePath>
+   <includePath signature="/I..\..\..\..\..\Users\stm\Desktop /I..\..\..\..\..\Users\stm\Desktop\MSO_pcbV6_24.12.19\cmsis_boot /I..\..\..\..\..\Users\stm\Desktop\MSO_pcbV6_24.12.19\cmsis /I..\..\..\..\..\Users\stm\Desktop\MSO_pcbV6_24.12.19 /I..\..\..\..\..\Users\stm">
+      <source file="..\..\..\pll_f100_VL.h" lastModified="147d0e38d52">
+      </source>
+      <source file="..\..\..\gpio.h" lastModified="13c5968ec50">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\startup\startup_stm32f10x_md_vl.c" lastModified="16da58311ce">
+      </source>
+      <source file="..\..\..\lcd.h" lastModified="16da59fab84">
+      </source>
+      <source file="..\..\..\init_gpio.h" lastModified="16db9dfdc47">
+      </source>
+      <source file="..\..\..\delay.h" lastModified="16da596b358">
+      </source>
+      <source file="..\..\..\itoa_ltoa.h" lastModified="147b73d832c">
+      </source>
+      <source file="..\..\..\i2c_software.h" lastModified="16db9ecb8aa">
+      </source>
+      <source file="..\..\..\cmsis_boot\stm32f10x_conf.h" lastModified="16da5831215">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f10x.h" lastModified="16da5831260">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f10x.c" lastModified="16da5831222">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\led_7_segm_4_razr.h" lastModified="16f4303e1cd">
+      </source>
+   </includePath>
+   <includePath signature="/ID:\ /ID:\STM32_TEMP /ID:\STM32_TEMP\MSO_pcbV6_19.11.19 /ID:\STM32_TEMP\MSO_pcbV6_19.11.19\cmsis_boot /ID:\STM32_TEMP\MSO_pcbV6_19.11.19\cmsis">
+      <source file="..\..\..\pll_f100_VL.h" lastModified="147d0e38d52">
+      </source>
+      <source file="..\..\..\gpio.h" lastModified="13c5968ec50">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\startup\startup_stm32f10x_md_vl.c" lastModified="16da58311ce">
+      </source>
+      <source file="..\..\..\lcd.h" lastModified="16da59fab84">
+      </source>
+      <source file="..\..\..\init_gpio.h" lastModified="16db9dfdc47">
+      </source>
+      <source file="..\..\..\delay.h" lastModified="16da596b358">
+      </source>
+      <source file="..\..\..\itoa_ltoa.h" lastModified="147b73d832c">
+      </source>
+      <source file="..\..\..\i2c_software.h" lastModified="16db9ecb8aa">
+      </source>
+      <source file="..\..\..\cmsis_boot\stm32f10x_conf.h" lastModified="16da5831215">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f10x.h" lastModified="16da5831260">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f10x.c" lastModified="16da5831222">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+   </includePath>
+   <includePath signature="/I..\..\..\..\..\Users\PMNK\Desktop\MSO_pcbV6_11.10.19 /I..\..\..\..\..\Users\PMNK\Desktop\MSO_pcbV6_11.10.19\cmsis /I..\..\..\..\..\Users\PMNK\Desktop\MSO_pcbV6_11.10.19\cmsis_boot /I..\..\..\..\..\Users\PMNK\Desktop /I..\..\..\..\..\Users\PMNK">
+      <source file="..\..\..\pll_f100_VL.h" lastModified="147d0e38d52">
+      </source>
+      <source file="..\..\..\gpio.h" lastModified="13c5968ec50">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\startup\startup_stm32f10x_md_vl.c" lastModified="16da58311ce">
+      </source>
+      <source file="..\..\..\lcd.h" lastModified="16da59fab84">
+      </source>
+      <source file="..\..\..\init_gpio.h" lastModified="16db9dfdc47">
+      </source>
+      <source file="..\..\..\delay.h" lastModified="16da596b358">
+      </source>
+      <source file="..\..\..\itoa_ltoa.h" lastModified="147b73d832c">
+      </source>
+      <source file="..\..\..\i2c_software.h" lastModified="16db9ecb8aa">
+      </source>
+      <source file="..\..\..\cmsis_boot\stm32f10x_conf.h" lastModified="16da5831215">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f10x.h" lastModified="16da5831260">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f10x.c" lastModified="16da5831222">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+   </includePath>
+   <includePath signature="/ID:\STM32_TEMP\MSO_pcbV6_08.10.19\cmsis /ID:\ /ID:\STM32_TEMP /ID:\STM32_TEMP\MSO_pcbV6_08.10.19 /ID:\STM32_TEMP\MSO_pcbV6_08.10.19\cmsis_boot">
+      <source file="..\..\..\pll_f100_VL.h" lastModified="147d0e38d52">
+      </source>
+      <source file="..\..\..\gpio.h" lastModified="13c5968ec50">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\startup\startup_stm32f10x_md_vl.c" lastModified="16da58311ce">
+      </source>
+      <source file="..\..\..\lcd.h" lastModified="16da59fab84">
+      </source>
+      <source file="..\..\..\init_gpio.h" lastModified="16db9dfdc47">
+      </source>
+      <source file="..\..\..\delay.h" lastModified="16da596b358">
+      </source>
+      <source file="..\..\..\itoa_ltoa.h" lastModified="147b73d832c">
+      </source>
+      <source file="..\..\..\i2c_software.h" lastModified="16db9ecb8aa">
+      </source>
+      <source file="..\..\..\cmsis_boot\stm32f10x_conf.h" lastModified="16da5831215">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f10x.h" lastModified="16da5831260">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f10x.c" lastModified="16da5831222">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+   </includePath>
+   <includePath signature="/ID:\STM32_TEMP\MSO_pcbV6_07.10.19\cmsis /ID:\STM32_TEMP\MSO_pcbV6_07.10.19 /ID:\ /ID:\STM32_TEMP /ID:\STM32_TEMP\MSO_pcbV6_07.10.19\cmsis_boot">
+      <source file="..\..\..\pll_f100_VL.h" lastModified="147d0e38d52">
+      </source>
+      <source file="..\..\..\gpio.h" lastModified="13c5968ec50">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\startup\startup_stm32f10x_md_vl.c" lastModified="16da58311ce">
+      </source>
+      <source file="..\..\..\lcd.h" lastModified="16da59fab84">
+      </source>
+      <source file="..\..\..\delay.h" lastModified="16da596b358">
+      </source>
+      <source file="..\..\..\itoa_ltoa.h" lastModified="147b73d832c">
+      </source>
+      <source file="..\..\..\cmsis_boot\stm32f10x_conf.h" lastModified="16da5831215">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f10x.h" lastModified="16da5831260">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f10x.c" lastModified="16da5831222">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+   </includePath>
+   <includePath signature="/ID:\STM32_TEMP\MSO_pcbV6\cmsis_boot /ID:\ /ID:\STM32_TEMP\MSO_pcbV6\cmsis /ID:\STM32_TEMP /ID:\STM32_TEMP\MSO_pcbV6">
+      <source file="..\..\..\pll_f100_VL.h" lastModified="147d0e38d52">
+      </source>
+      <source file="..\..\..\gpio.h" lastModified="13c5968ec50">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\startup\startup_stm32f10x_md_vl.c" lastModified="16da58311ce">
+      </source>
+      <source file="..\..\..\lcd.h" lastModified="16da59fab84">
+      </source>
+      <source file="..\..\..\delay.h" lastModified="16da596b358">
+      </source>
+      <source file="..\..\..\itoa_ltoa.h" lastModified="147b73d832c">
+      </source>
+      <source file="..\..\..\cmsis_boot\stm32f10x_conf.h" lastModified="16da5831215">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f10x.h" lastModified="16da5831260">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f10x.c" lastModified="16da5831222">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+   </includePath>
+   <includePath signature="/IH:\ARM\example\example_coocox_30.11.17\PomoySam\MSO_pcbV6_27.12.19 /IH:\ARM\example\example_coocox_30.11.17\PomoySam\MSO_pcbV6_27.12.19\cmsis_boot /IH:\ARM\example\example_coocox_30.11.17\PomoySam\MSO_pcbV6_27.12.19\cmsis /IH:\ARM\example\example_coocox_30.11.17 /IH:\ARM\example\example_coocox_30.11.17\PomoySam">
+      <source file="..\..\..\pll_f100_VL.h" lastModified="147d0e38d52">
+      </source>
+      <source file="..\..\..\gpio.h" lastModified="13c5968ec50">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\startup\startup_stm32f10x_md_vl.c" lastModified="16da58311ce">
+      </source>
+      <source file="..\..\..\lcd.h" lastModified="16da59fab84">
+      </source>
+      <source file="..\..\..\init_gpio.h" lastModified="16db9dfdc47">
+      </source>
+      <source file="..\..\..\delay.h" lastModified="16da596b358">
+      </source>
+      <source file="..\..\..\itoa_ltoa.h" lastModified="147b73d832c">
+      </source>
+      <source file="..\..\..\i2c_software.h" lastModified="16db9ecb8aa">
+      </source>
+      <source file="..\..\..\cmsis_boot\stm32f10x_conf.h" lastModified="16da5831215">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f10x.h" lastModified="16da5831260">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f10x.c" lastModified="16da5831222">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\led_7_segm_4_razr.h" lastModified="16f4303e1cd">
+      </source>
+   </includePath>
+   <includePath signature="/IE:\ARM\example\example_coocox_30.11.17\PomoySam /IE:\ARM\example\example_coocox_30.11.17\PomoySam\MSO_pcbV6_12.01.21\cmsis_boot /IE:\ARM\example\example_coocox_30.11.17\PomoySam\MSO_pcbV6_12.01.21\cmsis /IE:\ARM\example\example_coocox_30.11.17 /IE:\ARM\example\example_coocox_30.11.17\PomoySam\MSO_pcbV6_12.01.21">
+      <source file="..\..\..\gpio.h" lastModified="13c5968ec50">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\startup\startup_stm32f10x_md_vl.c" lastModified="16da58311ce">
+      </source>
+      <source file="..\..\..\lcd.h" lastModified="16da59fab84">
+      </source>
+      <source file="..\..\..\cmsis_boot\stm32f10x_conf.h" lastModified="16da5831215">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f10x.h" lastModified="16da5831260">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f10x.c" lastModified="16da5831222">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+   </includePath>
+   <includePath signature="/IF:\ARM\example\example_coocox_30.11.17\PomoySam\MSO_pcbV6_27.12.19\cmsis /IF:\ARM\example\example_coocox_30.11.17\PomoySam /IF:\ARM\example\example_coocox_30.11.17\PomoySam\MSO_pcbV6_27.12.19\cmsis_boot /IF:\ARM\example\example_coocox_30.11.17\PomoySam\MSO_pcbV6_27.12.19 /IF:\ARM\example\example_coocox_30.11.17">
+      <source file="..\..\..\gpio.h" lastModified="13c5968ec50">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\startup\startup_stm32f10x_md_vl.c" lastModified="16da58311ce">
+      </source>
+      <source file="..\..\..\lcd.h" lastModified="16da59fab84">
+      </source>
+      <source file="..\..\..\cmsis_boot\stm32f10x_conf.h" lastModified="16da5831215">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f10x.h" lastModified="16da5831260">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f10x.c" lastModified="16da5831222">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+   </includePath>
+   <includePath signature="/I..\..\..\..\..\Users\PMNK\Desktop\MSO_pcbV6_19.11.19 /I..\..\..\..\..\Users\PMNK\Desktop\MSO_pcbV6_19.11.19\cmsis_boot /I..\..\..\..\..\Users\PMNK\Desktop\MSO_pcbV6_19.11.19\cmsis /I..\..\..\..\..\Users\PMNK\Desktop /I..\..\..\..\..\Users\PMNK">
+      <source file="..\..\..\gpio.h" lastModified="13c5968ec50">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\startup\startup_stm32f10x_md_vl.c" lastModified="16da58311ce">
+      </source>
+      <source file="..\..\..\lcd.h" lastModified="16da59fab84">
+      </source>
+      <source file="..\..\..\cmsis_boot\stm32f10x_conf.h" lastModified="16da5831215">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f10x.h" lastModified="16da5831260">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f10x.c" lastModified="16da5831222">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+   </includePath>
+   <includePath signature="/II:\ARM\example\example_coocox_30.11.17\PomoySam\MSO_pcbV6_19.11.19\cmsis_boot /II:\ARM\example\example_coocox_30.11.17\PomoySam /II:\ARM\example\example_coocox_30.11.17\PomoySam\MSO_pcbV6_19.11.19\cmsis /II:\ARM\example\example_coocox_30.11.17 /II:\ARM\example\example_coocox_30.11.17\PomoySam\MSO_pcbV6_19.11.19">
+      <source file="..\..\..\gpio.h" lastModified="13c5968ec50">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\startup\startup_stm32f10x_md_vl.c" lastModified="16da58311ce">
+      </source>
+      <source file="..\..\..\lcd.h" lastModified="16da59fab84">
+      </source>
+      <source file="..\..\..\cmsis_boot\stm32f10x_conf.h" lastModified="16da5831215">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f10x.h" lastModified="16da5831260">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f10x.c" lastModified="16da5831222">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+   </includePath>
+   <includePath signature="/ID:\ /ID:\STM32_TEMP\MSO_pcbV6_23.12.19\cmsis /ID:\STM32_TEMP /ID:\STM32_TEMP\MSO_pcbV6_23.12.19\cmsis_boot /ID:\STM32_TEMP\MSO_pcbV6_23.12.19">
+      <source file="..\..\..\gpio.h" lastModified="13c5968ec50">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\startup\startup_stm32f10x_md_vl.c" lastModified="16da58311ce">
+      </source>
+      <source file="..\..\..\lcd.h" lastModified="16da59fab84">
+      </source>
+      <source file="..\..\..\cmsis_boot\stm32f10x_conf.h" lastModified="16da5831215">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f10x.h" lastModified="16da5831260">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f10x.c" lastModified="16da5831222">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+   </includePath>
+   <includePath signature="/IG:\ARM\example\example_coocox_30.11.17\PomoySam /IG:\ARM\example\example_coocox_30.11.17\PomoySam\MSO_pcbV6_27.12.19\cmsis_boot /IG:\ARM\example\example_coocox_30.11.17\PomoySam\MSO_pcbV6_27.12.19 /IG:\ARM\example\example_coocox_30.11.17\PomoySam\MSO_pcbV6_27.12.19\cmsis /IG:\ARM\example\example_coocox_30.11.17">
+      <source file="..\..\..\gpio.h" lastModified="13c5968ec50">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\startup\startup_stm32f10x_md_vl.c" lastModified="16da58311ce">
+      </source>
+      <source file="..\..\..\lcd.h" lastModified="16da59fab84">
+      </source>
+      <source file="..\..\..\cmsis_boot\stm32f10x_conf.h" lastModified="16da5831215">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f10x.h" lastModified="16da5831260">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f10x.c" lastModified="16da5831222">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+   </includePath>
+   <includePath signature="/IE:\ARM\example\example_coocox_30.11.17\PomoySam /IE:\ARM\example\example_coocox_30.11.17\PomoySam\MSO_pcbV6_27.12.19 /IE:\ARM\example\example_coocox_30.11.17\PomoySam\MSO_pcbV6_27.12.19\cmsis /IE:\ARM\example\example_coocox_30.11.17 /IE:\ARM\example\example_coocox_30.11.17\PomoySam\MSO_pcbV6_27.12.19\cmsis_boot">
+      <source file="..\..\..\gpio.h" lastModified="13c5968ec50">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\startup\startup_stm32f10x_md_vl.c" lastModified="16da58311ce">
+      </source>
+      <source file="..\..\..\lcd.h" lastModified="16da59fab84">
+      </source>
+      <source file="..\..\..\cmsis_boot\stm32f10x_conf.h" lastModified="16da5831215">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f10x.h" lastModified="16da5831260">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f10x.c" lastModified="16da5831222">
+         <include file="..\..\..\cmsis_boot\stm32f10x.h"/>
+      </source>
+   </includePath>
+</dependencies>

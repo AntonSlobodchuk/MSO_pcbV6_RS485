@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.4.1 -mcpu=cortex-m3 -mthumb -g -nostartfiles -Map=MSO_pcbV6.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\MSO_pcbV6 -TC:\CooCox\CoIDE\configuration\ProgramData\MSO_pcbV6/arm-gcc-link.ld -g">
+      <target file="MSO_pcbV6.elf" lastModified="17f258c0a82">
+         <source file="..\obj\startup_stm32f10x_md_vl.o" lastModified="17af8e4792b"/>
+         <source file="..\obj\system_stm32f10x.o" lastModified="17af8e47c9b"/>
+         <source file="..\obj\main.o" lastModified="17f258c06ac"/>
+         <source file="..\obj\lcd.o" lastModified="17af8e48c4f"/>
+      </target>
+   </processor>
+</history>
